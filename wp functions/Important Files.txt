@@ -1,0 +1,13 @@
+1. index.php
+2. style.css
+3. functions.php
+4. screenshot.png (600 X 450px)
+5. header.php
+6. footer.php
+=================
+7. single.php - Single blog post
+8. page.php - Single page
+6. 404.php - Not found page
+10. search.php - Search result
+11. archive.php
+12. sidebar.php
